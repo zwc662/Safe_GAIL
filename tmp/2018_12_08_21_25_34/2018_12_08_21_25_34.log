@@ -1,0 +1,5 @@
+2018-12-08 16:25:34,474 INFO This experiment is training True? testing False? demo?False
+2018-12-08 16:25:34,474 INFO Using discrete actions ---> multiple outputs
+2018-12-08 16:25:39,314 INFO Episode 1	Last reward: 58.70993616474891	Average reward 272.35
+2018-12-08 16:25:39,315 DEBUG backend agg version v2.2
+2018-12-08 16:25:39,352 DEBUG findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Liberation Sans ('/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf') with score of 2.050000

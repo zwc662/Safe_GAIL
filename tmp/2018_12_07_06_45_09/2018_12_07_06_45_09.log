@@ -1,0 +1,5 @@
+2018-12-07 01:45:13,810 INFO Episode 1	Last reward: -0.6066338195397221	Average reward -0.65
+2018-12-07 01:45:13,814 DEBUG backend agg version v2.2
+2018-12-07 01:45:13,915 DEBUG findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Liberation Sans ('/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf') with score of 2.050000
+2018-12-07 01:45:17,195 INFO Episode 2	Last reward: -0.3253991360261985	Average reward -0.58
+2018-12-07 01:45:21,344 INFO Episode 3	Last reward: -0.5594551804271354	Average reward -0.72
